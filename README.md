@@ -17,8 +17,8 @@ Have simple basic communication from a `STM32F411 Nucleo` microcontroller to a h
 Have a working SLIP interface which makes it possible to communicate from an `STM32F411 Nucleo` microcontroller out to the internet and back.
 
 ## Useful links
-[RFC 1055](https://tools.ietf.org/html/rfc1055)
-[RFC 914 Appendix D](https://tools.ietf.org/html/rfc914#appendix-D)
-[smoltcp](https://github.com/m-labs/smoltcp)
-[smoltcp docs](https://docs.rs/smoltcp/0.4.0/smoltcp)
-[tunslip](https://aur.archlinux.org/packages/tunslip/)
+* [RFC 1055](https://tools.ietf.org/html/rfc1055)
+* [RFC 914 Appendix D](https://tools.ietf.org/html/rfc914#appendix-D)
+* [smoltcp](https://github.com/m-labs/smoltcp)
+* [smoltcp docs](https://docs.rs/smoltcp/0.4.0/smoltcp)
+* [tunslip](https://aur.archlinux.org/packages/tunslip/)
